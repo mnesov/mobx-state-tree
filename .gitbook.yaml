@@ -1,8 +1,5 @@
-root: docs
-​
-structure:
-  readme: README.md
-  summary: SUMMARY.md
+root: ./docs
 
-redirects:
-  previous/page: docs/page.md
+structure:
+  readme: ./README.md
+  summary: ./docs/SUMMARY.md
